@@ -1,0 +1,20 @@
+.fz-3 {
+    font-size: 3px;
+    border-radius: 15px;
+}
+
+.card-img-top {
+    min-height: 300px;
+}
+
+.card-body {
+    min-height: 100px;
+}
+
+.card-title {
+    margin-bottom: 0px;
+}
+
+.card-footer {
+    min-height: 120px;
+}
